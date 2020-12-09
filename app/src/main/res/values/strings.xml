@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="sensor_text_humidity">Humidity:</string>
+    <string name="sensor_text_light">Light:</string>
+    <string name="sensor_text_pressure">Pressure:</string>
+</resources>
